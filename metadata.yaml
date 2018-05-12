@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '3697'
     url: http://www.gutenberg.org/2009/agents/3697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15863#A-Compilation-of-the-Messages-and-Papers-of-the-Presidents--13-Volume-8-part-3--Grover-Clevel_
 gutenberg_issued: '2005-05-19'
 gutenberg_type: Text
 identifiers:
